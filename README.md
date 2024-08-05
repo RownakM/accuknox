@@ -30,13 +30,6 @@ docker-compose up --build
 
 2. The API will be accessible at `http://localhost:8000`.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## Contact
 
