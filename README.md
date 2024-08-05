@@ -31,6 +31,10 @@ docker-compose up
 2. The API will be accessible at `http://localhost:8000`.
 
 
+### API Collection
+
+1. API Collection is available at _collection_ folder of this repo
+
 ## Contact
 
 For any issues or inquiries, please contact [rownakm.kol@gmail.com](mailto:rownakm.kol@gmail.com).
