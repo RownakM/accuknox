@@ -25,7 +25,7 @@ This project is a social networking API built using Django Rest Framework. It pr
 1. Build and run the Docker containers:
 
 ```bash
-docker-compose up --build
+docker-compose up
 ```
 
 2. The API will be accessible at `http://localhost:8000`.
